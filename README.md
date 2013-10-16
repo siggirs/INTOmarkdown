@@ -10,7 +10,7 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 Inline-style: 
-![Image](https://github.com/siggirs/INTOmarkdown/blob/master/ubuntu.jpg "Logo Title Text 1")
+![Image](https://github.com/siggirs/INTOmarkdown/blob/master/ubuntu.jpg?raw=true "Logo Title Text 1")
 
 ## 2. Uppsetning á vim && git
 
