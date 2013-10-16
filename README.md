@@ -10,7 +10,7 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 
 Lýsið hvernig gekk að setja upp þessi tól.
 
-## 3. Unnið með Git (1. hluti)
+### 3. Unnið með Git (1. hluti)
 
 Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
 
