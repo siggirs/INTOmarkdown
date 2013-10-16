@@ -21,8 +21,8 @@ Lýsið hvernig gekk að setja upp þessi tól.
 Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
 
 Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
-
-#n inline-style link](https://github.com/siggirs/INTOmarkdown)# 4. Uppsettur hugbúnaður
+[I'm an inline-style link](https://github.com/siggirs/INTOmarkdown)
+## 4. Uppsettur hugbúnaður
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
